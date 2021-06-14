@@ -1,2 +1,3 @@
-# Competitions
-Kaggle, Dacon 등의 경진대회에 참가하거나 코드를 공부하는 공간입니다.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e5eb2d8beb57b049bfda8f4dad85727a65552136a36fef7df39e34ab64da4b2
+size 110
