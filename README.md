@@ -1,9 +1,10 @@
-# Driver_Activity_Detection
+# Prediction of probability of making a new claim on driver's insurance next year
+
 ## Kaggle Competition    
 [Porto Seguro_s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)     
      
             
-------
+-----
 ### Aim
 - 운전자 A가 **내년에 보험을 새로 청구할 확률을 예측**하는 경진대회
 - 운전자가 내년에 자동차 보험 청구를 진행할 확률을 예측하는 모델 개발
