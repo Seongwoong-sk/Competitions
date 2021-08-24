@@ -1,4 +1,4 @@
-# Prediction of probability of making a new claim on driver's insurance next year
+# Predict if a driver will file an insurance claim next year.
 
 ## Kaggle Competition    
 [Porto Seguro_s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)     
